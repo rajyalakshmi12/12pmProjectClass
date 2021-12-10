@@ -130,6 +130,10 @@ public class Baseclass {
  
 			
 		}
+	private void jebin() {
+		System.out.println("jebin moses");
+
+	}
 			
 		
 		
